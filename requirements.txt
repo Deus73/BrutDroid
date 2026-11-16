@@ -1,5 +1,5 @@
 termcolor==2.4.0
-requests==2.32.3
-pyOpenSSL==24.2.1
+requests==2.33.0
+pyOpenSSL==26.0.0
 frida-tools==12.5.1
 PyQt6==6.7.1
